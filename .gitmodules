@@ -1,0 +1,3 @@
+[submodule "ptychoNN"]
+	path = ptychoNN
+	url = git@github.com:mcherukara/PtychoNN.git
